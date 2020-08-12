@@ -2,6 +2,6 @@
 
 class Tree {
   constructor(species) {
-    this.species = species
+    this.species = species;
   }
 }
